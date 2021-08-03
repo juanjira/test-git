@@ -4,7 +4,8 @@ Repositorio prueba
 
 #### Actividades GIT 
 
-Ejercicios de git
+#### Ejercicios de git
+
 ![](img/command_log.png)
 
 ![](img/Network.png)
