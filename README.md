@@ -6,3 +6,5 @@ Repositorio prueba
 
 Ejercicios de git
 ![](img/command_log.png)
+
+![](img/Network.png)
