@@ -1,0 +1,16 @@
+https://github.com/juanjira/test-git
+
+#CREAR RAMA LOCAL
+git checkout -b issue_1
+
+#SUBIRLA AL REMOTO
+git push origin issue_1
+
+#desde rama main
+git merge --no-ff issue_1
+
+#eliminar rama remota
+git push origin :issue_1
+
+#agregarle una imagen al readme.md
+![](img/command_log.png)
